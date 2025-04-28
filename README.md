@@ -1,6 +1,6 @@
 # anvil
 
-**anvil** is a minimal Linux desktop setup focused on simplicity, transparency, and full user control. It is built on the principle that **simplicity** doesn't mean hiding complexity. It provides
+**anvil** is a minimal Arch/Artix Linux desktop setup focused on simplicity, transparency, and full user control. It is built on the principle that **simplicity** doesn't mean hiding complexity. It provides
 a lean, minimal and flexible environment where you have **full** control over your system. There are no unnecessary abstractions and there is no hand-holding. Every component serves a clear and practical
 purpose. It is based on a custom `dwm` setup with carefully selected terminal-centric tools.  
 
