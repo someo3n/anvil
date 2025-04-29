@@ -12,7 +12,7 @@ purpose. It is based on a custom `dwm` setup with carefully selected terminal-ce
 | Panel                | `dwmblocks` (custom build) | TBD    |
 | Launcher             | `rofi`                     | TBD    |
 | Wallpaper/Theming    | `pywal`                    | TBD    |
-| Terminal Emulator    | `st` (custom build)        | TBD    |
+| Terminal Emulator    | `st` (custom build)        | DONE   |
 | Shell (User)         | `zsh`                      | TBD    |
 | Shell (System)       | `dash`                     | TBD    |
 | File Manager         | `lf`                       | TBD    |
